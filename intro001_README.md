@@ -117,11 +117,8 @@
 - White paper  
 - Work breakdown structure
 
+
 ## Feedback
-
-Here are the quotes with a double line break between each one:
-
----
 
 “Thank you for your expertise on this, it’s helpful.”<br>
 \--Customer, 6/2025
