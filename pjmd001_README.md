@@ -1,6 +1,7 @@
 ## PROJECTS IN GITHUB DEV WORKSPACE (SUMMARY)
 
-## Web Development (Independent Projects)
+## Web Development 
+_Independent development/exploration_
 
 #### Project Directories
 [wd](https://github.com/consultant-github/projects2/tree/main/wd)
@@ -8,16 +9,18 @@
 - webdev-calc/src (Calculator)
 - webdev-digclock/src (Digital Clock)
 - webdev-expenses/src (Expense Tracker)
+- webdev-lottery/src (Lottery Game)
 - webdev-palindrome/src (Palindrome Detector)	
 - webdev-react/src (React App Framework)
-- webdev-rockpaperscissors (Rock Paper Scissors)
+- webdev-rockpaperscissors (Rock Paper Scissors Game)
 - webdev-to-do/src (To Do App)
 
 #### Main Tools, Technologies
 HTML5, CSS3, JavaScript ES6, JSON, React, Visual Studio Code, Git, GitHub, Bash CLI
 
 
-## CI/CD Build and Test Automation (IT Contract)
+## CI/CD Build and Test Automation 
+_Contracted to create technical training reference guides_
 
 #### Project Directories
 [cicdta](https://github.com/consultant-github/projects2/tree/main/ta)
@@ -36,7 +39,8 @@ HTML5, CSS3, JavaScript ES6, JSON, React, Visual Studio Code, Git, GitHub, Bash 
 Java, Junit, Selenium Web Driver, Selenium TestNG, Jenkins, Apache (Maven, Tomcat, Ant, SVN Subversion)
 
 
-## ServiceNow Development (Project-Based Training and ATF Independent Project)
+## ServiceNow Development
+_Independent development/exploration and project-based training_
 
 #### Project Directories
 [sn](https://github.com/consultant-github/projects2/tree/main/sn)
@@ -48,7 +52,8 @@ Java, Junit, Selenium Web Driver, Selenium TestNG, Jenkins, Apache (Maven, Tomca
 Scoped App Development, ServiceNow APIs, ServiceNow Studio, Forms, Workflow, Server-Side Scripts, Script Includes, Client-Side Scripts, ServiceNow Automated Test Framework (ATF), Jasmine, JavaScript for ServiceNow, ServiceNow API Reference/Developer Documentation (Classes, Methods)
 
 
-## Machine Learning, Data Science (Project-Based Training)
+## Machine Learning, Data Science
+_Project-based training_
 
 #### Project Directories
 [ai](https://github.com/consultant-github/projects2/tree/main/ai)
@@ -59,8 +64,8 @@ Scoped App Development, ServiceNow APIs, ServiceNow Studio, Forms, Workflow, Ser
 Python, Scikit-learn, TensorFlow, Supervised Learning, Regression Analysis, Predictive Modeling, Image Classification, Computer Vision
 
 
-
 ## Blockchain Development (Project-Based Training)
+_Project-based training_
 
 #### Project Directories
 [bc](https://github.com/consultant-github/projects2/tree/main/bc)
@@ -69,5 +74,3 @@ Python, Scikit-learn, TensorFlow, Supervised Learning, Regression Analysis, Pred
 
 #### Main Tools, Technologies
 Solidity, Ganache, Truffle, Remix, Visual Studio Code
-
-
