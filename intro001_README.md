@@ -1,6 +1,7 @@
-## Project Experience
+## Experience
 
-- IT Operations  
+- Junior to Mid-Level Staff/Team Management
+- IT Operations Support
 - Governance and Compliance  
 - System and Process Audit  
 - Configuration Management  
@@ -15,10 +16,12 @@
 - Systems Analysis and Design  
 - Delivery Management  
 - Training  
-- User Experience (UX) Analysis  
+- User Experience (UX) Analysis and Design 
 - System Integration  
 - System Decommission  
-- Data Quality Management  
+- Data Quality Management
+- Program Management Analysis
+
 
 
 ## System Implementations
@@ -37,8 +40,6 @@
 - Travel Management  
 - Human Resources Management  
 - Data Visualization  
-- ServiceNow  
-- Atlassian  
 - Collaboration  
 - Financial and Supply Chain Management  
 - Decision Support  
@@ -55,72 +56,75 @@
 - Blockchain
 
 
+
 ### Work Products
 
-- Architecture specification  
-- Backlog management  
-- Communication plan  
-- Contingency plan  
-- Data migration plan  
-- Data privacy assessment  
-- Decommission plan  
-- Deployment logistics plan  
-- Developer documentation  
-- Epics  
-- Feasibility study  
-- Features  
-- FISMA audit preparation  
-- Fit-gap analysis document  
-- Focus group plans and reports  
-- Functional analysis report  
-- Functional and technical solution design specification  
-- Function-role analysis matrix  
-- Governance plan, procedures, templates, and policies  
-- Interface design specification  
-- Internal audit plan and report  
-- Process analysis and decomposition report  
-- Process map/diagram and narrative  
-- Process reengineering plan  
-- Production support plan  
-- Project plan  
-- Quality assurance plan  
-- Reference guide  
-- Release management plan  
-- Release notes  
-- Requirements specification  
-- Role-based training curriculum  
-- Standard operating procedures  
-- State diagram  
-- Survey and results report  
-- System security plan  
-- Audit requirements, procedures, and findings report  
-- System change control process  
-- System design prototype  
-- System test plan  
-- System transition plan  
-- Technical analysis report  
-- Test automation strategy, framework, plan, and scripts  
-- Test execution status report  
-- Training needs analysis report  
-- Training plan  
-- Training materials  
-- Use cases  
-- Usability test plan  
-- Usability test report  
-- User acceptance test plan  
-- User interface design  
-- User manual  
-- User profile  
-- User stories  
-- User task analysis report  
-- User experience/UX audit report  
-- White paper  
-- Work breakdown structure
+- Architecture Specification
+- Backlog Management
+- Communication Plan
+- Contingency Plan
+- Data Migration Plan
+- Data Privacy Assessment
+- Decommission Plan
+- Deployment Logistics Plan
+- Developer Documentation
+- Disaster Recovery Plan
+- Epics
+- Feasibility Study
+- Features
+- FISMA Audit Preparation
+- Fit-Gap Analysis Document
+- Focus Group Plans and Reports
+- Functional Analysis Report
+- Functional and Technical Solution Design Specification
+- Function-Role Analysis Matrix
+- Governance Plan, Procedures, Templates, and Policies
+- Interface Design Specification
+- Internal Audit Plan and Report
+- Process Analysis and Decomposition Report
+- Process Map/Diagram and Narrative
+- Process Reengineering Plan
+- Production Support Plan
+- Project Plan
+- Quality Assurance Plan
+- Reference Guide
+- Release Management Plan
+- Release Notes
+- Requirements Specification
+- Role-Based Training Curriculum
+- Standard Operating Procedures
+- State Diagram
+- Survey and Results Report
+- System Security Plan
+- Audit Requirements, Procedures, and Findings Report
+- System Change Control Process
+- System Design Prototype
+- System Test Plan
+- System Transition Plan
+- Technical Analysis Report
+- Test Automation Strategy, Framework, Plan, and Scripts
+- Test Execution Status Report
+- Training Needs Analysis Report
+- Training Plan
+- Training Materials
+- Use Cases
+- Usability Test Plan
+- Usability Test Report
+- User Acceptance Test Plan
+- User Interface Design
+- User Manual
+- User Profile
+- User Stories
+- User Task Analysis Report
+- User Experience/UX Audit Report
+- White Paper
+- Work Breakdown Structure
 
 
-## Feedback
 
-“Thank you for your expertise on this, it’s helpful.”<br>
+## Feedback and Comments
+
+“Thank you for your expertise on this.”<br>
 \--Customer, 6/2025
 
 <br>  
@@ -155,8 +159,8 @@
 
 <br>  
 
-“It will be great to have her help with the project as we plan testing in the next few months, where she will help organize and structure especially the UAT aspect with \[the customer]. She had done that in the past and has templates we can use as well. She has been doing great with \[customer] relationships and has added (sic) a lot of value to help them figure out what the to-be process would look like.”<br>
-\--Senior Project Manager, 2/13/2025
+“It will be great to have her help with the project as we plan testing in the next few months, where she will help organize and structure especially the UAT aspect with \[the customer]. She had done that in the past and has templates we can use as well. She has been doing great with \[customer] relationships and has addes (sic) a lot of value to help them figure out what the to-be process would look like.”<br>
+\--Senior Project Manager, 2/2025
 
 <br>  
 
@@ -180,7 +184,7 @@
 
 <br>  
 
-“I got really great feedback about you from 3 people on totally unrelated projects– unsolicited!”<br>
+“I got really great feedback about you from 3 people on totally unrelated projects – unsolicited!”<br>
 \--Senior Project Manager, Supervisor, 1/2025
 
 <br>  
@@ -211,7 +215,7 @@
 <br>  
 
 “Great job explaining our needs…that was a great demo.”<br>
-\--Senior Technology Transfer Specialist, 10/2024
+\--Customer, Legal Operations, 10/2024
 
 <br>  
 
@@ -221,7 +225,7 @@
 <br>  
 
 “So happy to have your assistance with this project!”<br>
-\--Director, IT, 11/2024
+\--IT Director, 11/2024
 
 <br>  
 
@@ -317,6 +321,7 @@
 
 “Thank you for helping us with the project process, documentation, and requirements. You’ve always been helpful and we’d be nowhere on this project without you! You’re the best!”<br>
 \--Senior Manager, 8/2017
+
 
 
 ## Personal Projects
