@@ -76,7 +76,7 @@
 - Fit-Gap Analysis Document
 - Focus Group Plans and Reports
 - Functional Analysis Report
-- Functional and Technical Solution Design Specification
+- Functional and Technical System/Solution Design Specification
 - Function-Role Analysis Matrix
 - Governance Plan, Procedures, Templates, and Policies
 - Interface Design Specification
