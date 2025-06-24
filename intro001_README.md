@@ -1,10 +1,11 @@
 ## Experience
 
 - Junior to Mid-Level Staff/Team Management
-- IT Operations Support
+- IT Operations and Maintenance Support
 - Governance and Compliance  
 - System and Process Audit  
 - Configuration Management  
+- Product Operations
 - Business Analysis  
 - Business Process Mapping  
 - Agile Methods  
