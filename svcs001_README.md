@@ -1,5 +1,5 @@
 ## Services
-________________________________________
+
 #### IT Governance & Compliance
 system security compliance, system configuration management, governance plan and policies, data privacy assessment, system auditing requirements, internal audit, FISMA audit preparation
 ________________________________________
