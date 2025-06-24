@@ -3,7 +3,7 @@ ________________________________________
 #### IT Governance & Compliance
 system security compliance, system configuration management, governance plan and policies, data privacy assessment, system auditing requirements, internal audit, FISMA audit preparation
 ________________________________________
-#### IIT Business Analysis
+#### IT Business Analysis
 requirements elicitation, use case development, requirements analysis, requirements specification, epics, features, user stories, backlog management, requirements management
 ________________________________________
 #### IProcess Improvement and Automation
