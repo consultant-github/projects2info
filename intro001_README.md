@@ -321,9 +321,3 @@
 
 “Thank you for helping us with the project process, documentation, and requirements. You’ve always been helpful and we’d be nowhere on this project without you! You’re the best!”<br>
 \--Senior Manager, 8/2017
-
-
-
-## Personal Projects
-
-https://github.com/consultant-github/pjmdpub01/blob/main/pjmd001_README.md 
