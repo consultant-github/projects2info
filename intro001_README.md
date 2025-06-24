@@ -69,9 +69,8 @@
 - Deployment Logistics Plan
 - Developer Documentation
 - Disaster Recovery Plan
-- Epics
 - Feasibility Study
-- Features
+- Product Features, Epics, and User Stories
 - FISMA Audit Preparation
 - Fit-Gap Analysis Document
 - Focus Group Plans and Reports
@@ -114,7 +113,6 @@
 - User Interface Design
 - User Manual
 - User Profile
-- User Stories
 - User Task Analysis Report
 - User Experience/UX Audit Report
 - White Paper
