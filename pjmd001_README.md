@@ -1,4 +1,5 @@
-## PROJECTS IN GITHUB DEV WORKSPACE (SUMMARY)
+## DEV PROJECTS
+_Coding and tech exploration projects_
 
 ## Web Development 
 _Independent development/exploration_
@@ -23,7 +24,7 @@ HTML5, CSS3, JavaScript ES6, JSON, React, Visual Studio Code, Git, GitHub, Bash 
 _Contracted to create technical training reference guides_
 
 #### Project Directories
-[cicdta](https://github.com/consultant-github/projects2/tree/main/ta)
+[ta](https://github.com/consultant-github/projects2/tree/main/ta)
 - javadev-char		
 - javadev-helloworld
 - javadev-shapes
@@ -46,7 +47,7 @@ _Independent development/exploration and project-based training_
 [sn](https://github.com/consultant-github/projects2/tree/main/sn)
 - sn-adpt/src (Dog Adoption App)
 - sn-leave/src (Leave Request App)
-- sn-time-lapse/src (Test Automation (Time Lapse Simulator)
+- sn-sysen/sndesc.md (ServiceNow Application Development Training)
 
 #### Main Tools, Technologies 
 Scoped App Development, ServiceNow APIs, ServiceNow Studio, Forms, Workflow, Server-Side Scripts, Script Includes, Client-Side Scripts, ServiceNow Automated Test Framework (ATF), Jasmine, JavaScript for ServiceNow, ServiceNow API Reference/Developer Documentation (Classes, Methods)
@@ -71,6 +72,8 @@ _Project-based training_
 [bc](https://github.com/consultant-github/projects2/tree/main/bc)
 - bc-basic/src	 (Blockchain Development)
 - bc-defi/contracts (Smart Contract – DeFi App)
+- bc-nft-erc721/src (Minting an ERC-721 Coin)
+- bc-voting/contracts (Voting App)
 
 #### Main Tools, Technologies
 Solidity, Ganache, Truffle, Remix, Visual Studio Code
