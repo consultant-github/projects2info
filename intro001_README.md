@@ -14,6 +14,7 @@
 - Project Management  
 - Knowledge Management  
 - Enterprise Resource Planning  
+- Automation
 - Systems Analysis and Design  
 - Delivery Management  
 - Training  
