@@ -1,6 +1,6 @@
 ## Experience
 
-- Junior to Mid-Level Staff/Team Management
+- Staff/Team Management
 - IT Operations and Maintenance Support
 - Governance and Compliance  
 - System and Process Audit  
