@@ -224,11 +224,6 @@
 
 <br>  
 
-“So happy to have your assistance with this project!”<br>
-\--IT Director, 11/2024
-
-<br>  
-
 “Thank you so much for your support over the years. I will remember all the wonderful things you did for us.”<br>
 \--Senior Project Manager, 8/2024
 
